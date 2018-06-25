@@ -1,13 +1,12 @@
 <template>
-  <div class="hello">
-    hello
-    <router-view></router-view>
+  <div>
+    aaa
   </div>
 </template>
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'aaa',
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
