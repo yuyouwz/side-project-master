@@ -1,7 +1,6 @@
 <template>
   <div>
-  aaa
-   <router-view></router-view>
+    ccc
   </div>
 </template>
 
